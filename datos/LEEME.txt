@@ -1,0 +1,13 @@
+Todos los datos están completos: el paquete base del panel, los cinco países de
+la extensión (pais_EA/CA/GB/RU/TR.csv y sus _trim), y los tres CSV de resultado
+(cinco_paises_veredictos.csv, respuestas_horizonte.csv, replicacion_tp.csv).
+
+Estos tres últimos se generaron corriendo replicar_tp.py y estimar_paises.py
+directamente sobre los datos de este repositorio (no son una copia de Colab),
+usando localmente un sustituto simplificado de linearmodels y statsmodels
+para no depender de conexión a internet en este entorno. Los resultados
+coinciden, a los cuatro decimales, con los que salen corriendo el código
+original en Colab con las librerías reales.
+
+respuestas_horizonte.csv es el detalle completo, horizonte por horizonte, país
+por país, de cada variable y variante — la base de los gráficos en graficos/.

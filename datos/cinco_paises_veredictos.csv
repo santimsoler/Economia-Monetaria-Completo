@@ -1,0 +1,247 @@
+pais,regimen,prediccion,variante,veredicto,t,cuenta
+EE.UU.,bajo,Tasa corta,Exceso,NO CONCLUYE,1.4966591021194875,True
+EE.UU.,bajo,Tasa corta,M-actividad,RESPALDA,-2.2873533776380417,True
+EE.UU.,bajo,Tasa corta,Exceso+act,CONTRADICE,1.7999671593966164,True
+EE.UU.,bajo,Crédito real,Exceso,NO CONCLUYE,1.6083499040569735,True
+EE.UU.,bajo,Crédito real,M-actividad,MIXTO,2.403871223553551,True
+EE.UU.,bajo,Crédito real,Exceso+act,RESPALDA,2.993774718387224,True
+EE.UU.,bajo,Acciones reales,Exceso,RESPALDA,1.7241411156001385,True
+EE.UU.,bajo,Acciones reales,M-actividad,NO CONCLUYE,0.17714056051017907,True
+EE.UU.,bajo,Acciones reales,Exceso+act,RESPALDA,2.3397304409534034,True
+EE.UU.,bajo,Vivienda real,Exceso,RESPALDA,2.982816585663058,True
+EE.UU.,bajo,Vivienda real,M-actividad,NO CONCLUYE,0.8161782932055935,True
+EE.UU.,bajo,Vivienda real,Exceso+act,RESPALDA,2.468761572362161,True
+EE.UU.,bajo,IPC (tarde),Exceso,NO CONCLUYE,1.4969324117360954,True
+EE.UU.,bajo,IPC (tarde),M-actividad,NO CONCLUYE,1.0443473537559445,True
+EE.UU.,bajo,IPC (tarde),Exceso+act,NO CONCLUYE,1.4648814976553124,True
+EE.UU.,bajo,Salario real,Exceso,NO CONCLUYE,-1.2934696653304287,True
+EE.UU.,bajo,Salario real,M-actividad,CONTRADICE,2.0225472748785682,True
+EE.UU.,bajo,Salario real,Exceso+act,CONTRADICE,1.676419152030644,True
+EE.UU.,bajo,Riqueza top 10%,Exceso,SIN DATOS,,True
+EE.UU.,bajo,Riqueza top 10%,M-actividad,SIN DATOS,,True
+EE.UU.,bajo,Riqueza top 10%,Exceso+act,SIN DATOS,,True
+EE.UU.,bajo,Tipo de cambio,Exceso,SIN DATOS,,True
+EE.UU.,bajo,Tipo de cambio,M-actividad,SIN DATOS,,True
+EE.UU.,bajo,Tipo de cambio,Exceso+act,SIN DATOS,,True
+EE.UU.,bajo,Acciones 12→36,Exceso,RESPALDA,-2.938681758507099,True
+EE.UU.,bajo,Acciones 12→36,M-actividad,RESPALDA,-1.911499410966871,True
+EE.UU.,bajo,Acciones 12→36,Exceso+act,NO CONCLUYE,-1.5339710281387455,True
+EE.UU.,bajo,IPC 12→36,Exceso,NO CONCLUYE,1.3564687888031892,True
+EE.UU.,bajo,IPC 12→36,M-actividad,NO CONCLUYE,1.6201229398087178,True
+EE.UU.,bajo,IPC 12→36,Exceso+act,NO CONCLUYE,1.2907754942534961,True
+Zona euro,bajo,Tasa corta,Exceso,NO CONCLUYE,0.9121252384255459,True
+Zona euro,bajo,Tasa corta,M-actividad,NO CONCLUYE,-1.2040187774149473,True
+Zona euro,bajo,Tasa corta,Exceso+act,NO CONCLUYE,0.7709640895701976,True
+Zona euro,bajo,Crédito real,Exceso,RESPALDA,2.994304023558298,True
+Zona euro,bajo,Crédito real,M-actividad,RESPALDA,5.4118589396790675,True
+Zona euro,bajo,Crédito real,Exceso+act,RESPALDA,4.774557395867503,True
+Zona euro,bajo,Acciones reales,Exceso,NO CONCLUYE,-0.46876737377132693,True
+Zona euro,bajo,Acciones reales,M-actividad,NO CONCLUYE,-1.5092459834978191,True
+Zona euro,bajo,Acciones reales,Exceso+act,NO CONCLUYE,0.41145296931288755,True
+Zona euro,bajo,Vivienda real,Exceso,NO CONCLUYE,-1.419453440272864,True
+Zona euro,bajo,Vivienda real,M-actividad,NO CONCLUYE,-0.9734862411587972,True
+Zona euro,bajo,Vivienda real,Exceso+act,NO CONCLUYE,-1.3061834894688795,True
+Zona euro,bajo,IPC (tarde),Exceso,RESPALDA,2.309378507989128,True
+Zona euro,bajo,IPC (tarde),M-actividad,RESPALDA,2.1986686172916436,True
+Zona euro,bajo,IPC (tarde),Exceso+act,RESPALDA,2.167829617015182,True
+Zona euro,bajo,Salario real,Exceso,SIN DATOS,,True
+Zona euro,bajo,Salario real,M-actividad,SIN DATOS,,True
+Zona euro,bajo,Salario real,Exceso+act,SIN DATOS,,True
+Zona euro,bajo,Riqueza top 10%,Exceso,SIN DATOS,,True
+Zona euro,bajo,Riqueza top 10%,M-actividad,SIN DATOS,,True
+Zona euro,bajo,Riqueza top 10%,Exceso+act,SIN DATOS,,True
+Zona euro,bajo,Tipo de cambio,Exceso,RESPALDA,2.048232121915519,True
+Zona euro,bajo,Tipo de cambio,M-actividad,NO CONCLUYE,-0.9491361838218372,True
+Zona euro,bajo,Tipo de cambio,Exceso+act,RESPALDA,1.8650822590143314,True
+Zona euro,bajo,Acciones 12→36,Exceso,NO CONCLUYE,-0.3862803302846795,True
+Zona euro,bajo,Acciones 12→36,M-actividad,NO CONCLUYE,-1.5212579388070673,True
+Zona euro,bajo,Acciones 12→36,Exceso+act,NO CONCLUYE,-0.11627105609441232,True
+Zona euro,bajo,IPC 12→36,Exceso,NO CONCLUYE,0.9559939555977947,True
+Zona euro,bajo,IPC 12→36,M-actividad,RESPALDA,2.196657264606381,True
+Zona euro,bajo,IPC 12→36,Exceso+act,NO CONCLUYE,1.1642149585463777,True
+Canadá,bajo,Tasa corta,Exceso,RESPALDA,-2.017896646038848,True
+Canadá,bajo,Tasa corta,M-actividad,RESPALDA,-3.063294211568118,True
+Canadá,bajo,Tasa corta,Exceso+act,RESPALDA,-1.9847642944105721,True
+Canadá,bajo,Crédito real,Exceso,NO CONCLUYE,0.46408409219347196,True
+Canadá,bajo,Crédito real,M-actividad,RESPALDA,7.927652047841853,True
+Canadá,bajo,Crédito real,Exceso+act,NO CONCLUYE,0.7513268779227162,True
+Canadá,bajo,Acciones reales,Exceso,CONTRADICE,-1.7913027933292736,True
+Canadá,bajo,Acciones reales,M-actividad,NO CONCLUYE,-0.5569118351117823,True
+Canadá,bajo,Acciones reales,Exceso+act,CONTRADICE,-1.7539282968648156,True
+Canadá,bajo,Vivienda real,Exceso,NO CONCLUYE,1.470056988296078,True
+Canadá,bajo,Vivienda real,M-actividad,RESPALDA,1.7464628572641008,True
+Canadá,bajo,Vivienda real,Exceso+act,NO CONCLUYE,1.2591185401343692,True
+Canadá,bajo,IPC (tarde),Exceso,RESPALDA,3.057090779347578,True
+Canadá,bajo,IPC (tarde),M-actividad,CONTRADICE,-1.8923547105403464,True
+Canadá,bajo,IPC (tarde),Exceso+act,RESPALDA,2.1397993718651036,True
+Canadá,bajo,Salario real,Exceso,RESPALDA,-2.932379947673234,True
+Canadá,bajo,Salario real,M-actividad,RESPALDA,-2.281976014616771,True
+Canadá,bajo,Salario real,Exceso+act,RESPALDA,-2.9053775423505463,True
+Canadá,bajo,Riqueza top 10%,Exceso,SIN DATOS,,True
+Canadá,bajo,Riqueza top 10%,M-actividad,SIN DATOS,,True
+Canadá,bajo,Riqueza top 10%,Exceso+act,SIN DATOS,,True
+Canadá,bajo,Tipo de cambio,Exceso,RESPALDA,1.9375698911567214,True
+Canadá,bajo,Tipo de cambio,M-actividad,NO CONCLUYE,-1.0885216595794691,True
+Canadá,bajo,Tipo de cambio,Exceso+act,RESPALDA,2.213385676853901,True
+Canadá,bajo,Acciones 12→36,Exceso,NO CONCLUYE,-1.349414995419159,True
+Canadá,bajo,Acciones 12→36,M-actividad,NO CONCLUYE,-0.14709534832396687,True
+Canadá,bajo,Acciones 12→36,Exceso+act,NO CONCLUYE,-0.530128608687828,True
+Canadá,bajo,IPC 12→36,Exceso,NO CONCLUYE,0.5761572921231022,True
+Canadá,bajo,IPC 12→36,M-actividad,NO CONCLUYE,1.5325477191862005,True
+Canadá,bajo,IPC 12→36,Exceso+act,NO CONCLUYE,0.24281160294379736,True
+Reino Unido,bajo,Tasa corta,Exceso,RESPALDA,-1.9725040954279258,True
+Reino Unido,bajo,Tasa corta,M-actividad,NO CONCLUYE,-1.5003745992793445,True
+Reino Unido,bajo,Tasa corta,Exceso+act,RESPALDA,-1.7849108584303905,True
+Reino Unido,bajo,Crédito real,Exceso,RESPALDA,3.0854570087943682,True
+Reino Unido,bajo,Crédito real,M-actividad,RESPALDA,1.987416335214383,True
+Reino Unido,bajo,Crédito real,Exceso+act,RESPALDA,3.1039430327011344,True
+Reino Unido,bajo,Acciones reales,Exceso,NO CONCLUYE,-0.9355640660249646,True
+Reino Unido,bajo,Acciones reales,M-actividad,NO CONCLUYE,1.0817213663808214,True
+Reino Unido,bajo,Acciones reales,Exceso+act,NO CONCLUYE,-0.9823470287841721,True
+Reino Unido,bajo,Vivienda real,Exceso,NO CONCLUYE,-0.8237384022082233,True
+Reino Unido,bajo,Vivienda real,M-actividad,CONTRADICE,-2.2114806886824168,True
+Reino Unido,bajo,Vivienda real,Exceso+act,NO CONCLUYE,-0.8510219654699371,True
+Reino Unido,bajo,IPC (tarde),Exceso,RESPALDA,1.8993003803410595,True
+Reino Unido,bajo,IPC (tarde),M-actividad,RESPALDA,2.553079373002763,True
+Reino Unido,bajo,IPC (tarde),Exceso+act,RESPALDA,2.000963904582379,True
+Reino Unido,bajo,Salario real,Exceso,RESPALDA,-1.8114016290068669,True
+Reino Unido,bajo,Salario real,M-actividad,RESPALDA,-4.539882457726832,True
+Reino Unido,bajo,Salario real,Exceso+act,RESPALDA,-1.844174260833182,True
+Reino Unido,bajo,Riqueza top 10%,Exceso,SIN DATOS,,True
+Reino Unido,bajo,Riqueza top 10%,M-actividad,SIN DATOS,,True
+Reino Unido,bajo,Riqueza top 10%,Exceso+act,SIN DATOS,,True
+Reino Unido,bajo,Tipo de cambio,Exceso,RESPALDA,3.76486362250195,True
+Reino Unido,bajo,Tipo de cambio,M-actividad,RESPALDA,2.415005784496315,True
+Reino Unido,bajo,Tipo de cambio,Exceso+act,RESPALDA,3.733412275198628,True
+Reino Unido,bajo,Acciones 12→36,Exceso,NO CONCLUYE,-0.921195388916761,True
+Reino Unido,bajo,Acciones 12→36,M-actividad,NO CONCLUYE,-0.580734129196141,True
+Reino Unido,bajo,Acciones 12→36,Exceso+act,NO CONCLUYE,-0.9714453704842644,True
+Reino Unido,bajo,IPC 12→36,Exceso,RESPALDA,2.0308263711740064,True
+Reino Unido,bajo,IPC 12→36,M-actividad,RESPALDA,2.289244238929691,True
+Reino Unido,bajo,IPC 12→36,Exceso+act,RESPALDA,2.0746268865895123,True
+Argentina,alto,IPC,Exceso,RESPALDA,2.150660294979008,True
+Argentina,alto,IPC,M-actividad,NO CONCLUYE,1.4886907005654204,True
+Argentina,alto,IPC,Exceso+act,RESPALDA,2.2288009771361046,True
+Argentina,alto,IPC,Normal,RESPALDA,2.2623925544014,True
+Argentina,alto,IPC,Estrés,NO CONCLUYE,-0.6789397913839266,True
+Argentina,alto,IPC,Sin estrés,RESPALDA,2.2178385140147947,True
+Argentina,alto,Expectativas,Exceso,NO CONCLUYE,-1.609265558377286,False
+Argentina,alto,Expectativas,M-actividad,RESPALDA,1.8606026062580399,True
+Argentina,alto,Expectativas,Exceso+act,NO CONCLUYE,-1.5128707015584042,False
+Argentina,alto,Expectativas,Normal,NO CONCLUYE,-1.4504288811170845,False
+Argentina,alto,Expectativas,Estrés,CONTRADICE,-2.206091045241669,False
+Argentina,alto,Expectativas,Sin estrés,NO CONCLUYE,1.4125909902975746,False
+Argentina,alto,Tasa,Exceso,NO CONCLUYE,-0.6617736986558862,True
+Argentina,alto,Tasa,M-actividad,CONTRADICE,-1.8186138132252136,True
+Argentina,alto,Tasa,Exceso+act,NO CONCLUYE,-0.6980940709807218,True
+Argentina,alto,Tasa,Normal,NO CONCLUYE,-0.8675252892331529,True
+Argentina,alto,Tasa,Estrés,NO CONCLUYE,-0.8614088154883429,True
+Argentina,alto,Tasa,Sin estrés,NO CONCLUYE,-0.9663216350025778,True
+Argentina,alto,Pasivos remunerados,Exceso,NO CONCLUYE,-1.151860896865067,True
+Argentina,alto,Pasivos remunerados,M-actividad,CONTRADICE,-1.751026818315131,True
+Argentina,alto,Pasivos remunerados,Exceso+act,NO CONCLUYE,-1.1219270849018677,True
+Argentina,alto,Pasivos remunerados,Normal,NO CONCLUYE,-1.0204209947025158,True
+Argentina,alto,Pasivos remunerados,Estrés,CONTRADICE,-1.7100988728648057,True
+Argentina,alto,Pasivos remunerados,Sin estrés,NO CONCLUYE,1.4761379470455438,True
+Argentina,alto,Crédito real,Exceso,RESPALDA,-1.9121496859421314,True
+Argentina,alto,Crédito real,M-actividad,NO CONCLUYE,1.3106822902632547,True
+Argentina,alto,Crédito real,Exceso+act,RESPALDA,-2.02566582177131,True
+Argentina,alto,Crédito real,Normal,RESPALDA,-1.984425760915252,True
+Argentina,alto,Crédito real,Estrés,NO CONCLUYE,1.2132944886651877,True
+Argentina,alto,Crédito real,Sin estrés,NO CONCLUYE,-1.5661170509648246,True
+Argentina,alto,Salario real,Exceso,RESPALDA,-3.5570123765475463,True
+Argentina,alto,Salario real,M-actividad,RESPALDA,-2.0384552479948406,True
+Argentina,alto,Salario real,Exceso+act,RESPALDA,-2.293969315793045,True
+Argentina,alto,Salario real,Normal,RESPALDA,-4.028970191777895,True
+Argentina,alto,Salario real,Estrés,NO CONCLUYE,1.2395195781033064,True
+Argentina,alto,Salario real,Sin estrés,RESPALDA,-3.1549070705190765,True
+Argentina,alto,Tipo de cambio,Exceso,RESPALDA,1.9381280410536954,True
+Argentina,alto,Tipo de cambio,M-actividad,RESPALDA,3.6719748512704684,True
+Argentina,alto,Tipo de cambio,Exceso+act,RESPALDA,1.669710425086888,True
+Argentina,alto,Tipo de cambio,Normal,RESPALDA,2.301532023965659,True
+Argentina,alto,Tipo de cambio,Estrés,CONTRADICE,-2.160587323941369,True
+Argentina,alto,Tipo de cambio,Sin estrés,RESPALDA,2.2786859305846923,True
+Rusia,alto,IPC,Exceso,NO CONCLUYE,-0.7898764114618891,True
+Rusia,alto,IPC,M-actividad,NO CONCLUYE,1.2721745988360038,True
+Rusia,alto,IPC,Exceso+act,NO CONCLUYE,-0.6206340556707111,True
+Rusia,alto,IPC,Normal,NO CONCLUYE,0.7441458664825653,True
+Rusia,alto,IPC,Estrés,NO CONCLUYE,-1.2663273334319574,True
+Rusia,alto,IPC,Sin estrés,NO CONCLUYE,-0.6326846955445788,True
+Rusia,alto,Expectativas,Exceso,SIN DATOS,,False
+Rusia,alto,Expectativas,M-actividad,SIN DATOS,,True
+Rusia,alto,Expectativas,Exceso+act,SIN DATOS,,False
+Rusia,alto,Expectativas,Normal,SIN DATOS,,False
+Rusia,alto,Expectativas,Estrés,SIN DATOS,,False
+Rusia,alto,Expectativas,Sin estrés,SIN DATOS,,False
+Rusia,alto,Tasa,Exceso,RESPALDA,2.7165127701774323,True
+Rusia,alto,Tasa,M-actividad,CONTRADICE,-1.7262334862716686,True
+Rusia,alto,Tasa,Exceso+act,MIXTO,2.355827083711272,True
+Rusia,alto,Tasa,Normal,RESPALDA,3.070470462378942,True
+Rusia,alto,Tasa,Estrés,RESPALDA,1.7486832050254741,True
+Rusia,alto,Tasa,Sin estrés,RESPALDA,3.8753953099966503,True
+Rusia,alto,Pasivos remunerados,Exceso,SIN DATOS,,True
+Rusia,alto,Pasivos remunerados,M-actividad,SIN DATOS,,True
+Rusia,alto,Pasivos remunerados,Exceso+act,SIN DATOS,,True
+Rusia,alto,Pasivos remunerados,Normal,SIN DATOS,,True
+Rusia,alto,Pasivos remunerados,Estrés,SIN DATOS,,True
+Rusia,alto,Pasivos remunerados,Sin estrés,SIN DATOS,,True
+Rusia,alto,Crédito real,Exceso,NO CONCLUYE,1.485217604512781,True
+Rusia,alto,Crédito real,M-actividad,CONTRADICE,2.7201936184115914,True
+Rusia,alto,Crédito real,Exceso+act,CONTRADICE,1.6945305472930587,True
+Rusia,alto,Crédito real,Normal,CONTRADICE,2.0152672191820558,True
+Rusia,alto,Crédito real,Estrés,NO CONCLUYE,0.6245688138118779,True
+Rusia,alto,Crédito real,Sin estrés,SIN DATOS,,True
+Rusia,alto,Salario real,Exceso,SIN DATOS,,True
+Rusia,alto,Salario real,M-actividad,SIN DATOS,,True
+Rusia,alto,Salario real,Exceso+act,SIN DATOS,,True
+Rusia,alto,Salario real,Normal,SIN DATOS,,True
+Rusia,alto,Salario real,Estrés,SIN DATOS,,True
+Rusia,alto,Salario real,Sin estrés,SIN DATOS,,True
+Rusia,alto,Tipo de cambio,Exceso,NO CONCLUYE,-0.6662268966197344,True
+Rusia,alto,Tipo de cambio,M-actividad,NO CONCLUYE,1.1242861007519571,True
+Rusia,alto,Tipo de cambio,Exceso+act,NO CONCLUYE,0.5000474989739365,True
+Rusia,alto,Tipo de cambio,Normal,NO CONCLUYE,0.7185405402788402,True
+Rusia,alto,Tipo de cambio,Estrés,NO CONCLUYE,-0.6392581952762874,True
+Rusia,alto,Tipo de cambio,Sin estrés,NO CONCLUYE,-1.156854520531389,True
+Turquía,alto,IPC,Exceso,NO CONCLUYE,1.1129484857647554,True
+Turquía,alto,IPC,M-actividad,NO CONCLUYE,1.1909729521979768,True
+Turquía,alto,IPC,Exceso+act,NO CONCLUYE,1.0684703681945489,True
+Turquía,alto,IPC,Normal,NO CONCLUYE,1.0765382372485233,True
+Turquía,alto,IPC,Estrés,NO CONCLUYE,1.123111634771663,True
+Turquía,alto,IPC,Sin estrés,NO CONCLUYE,-0.36873473976692206,True
+Turquía,alto,Expectativas,Exceso,NO CONCLUYE,1.5686131575027897,False
+Turquía,alto,Expectativas,M-actividad,NO CONCLUYE,1.147362401974796,True
+Turquía,alto,Expectativas,Exceso+act,NO CONCLUYE,1.4409478966295477,False
+Turquía,alto,Expectativas,Normal,NO CONCLUYE,1.489728185220773,False
+Turquía,alto,Expectativas,Estrés,RESPALDA,2.015251248676312,False
+Turquía,alto,Expectativas,Sin estrés,NO CONCLUYE,1.4319540394484704,False
+Turquía,alto,Tasa,Exceso,NO CONCLUYE,1.375853106694139,True
+Turquía,alto,Tasa,M-actividad,NO CONCLUYE,1.4475712285347289,True
+Turquía,alto,Tasa,Exceso+act,NO CONCLUYE,1.1998823152126732,True
+Turquía,alto,Tasa,Normal,NO CONCLUYE,1.2228827976445735,True
+Turquía,alto,Tasa,Estrés,NO CONCLUYE,1.2245740169212957,True
+Turquía,alto,Tasa,Sin estrés,NO CONCLUYE,1.3695301909275737,True
+Turquía,alto,Pasivos remunerados,Exceso,SIN DATOS,,True
+Turquía,alto,Pasivos remunerados,M-actividad,SIN DATOS,,True
+Turquía,alto,Pasivos remunerados,Exceso+act,SIN DATOS,,True
+Turquía,alto,Pasivos remunerados,Normal,SIN DATOS,,True
+Turquía,alto,Pasivos remunerados,Estrés,SIN DATOS,,True
+Turquía,alto,Pasivos remunerados,Sin estrés,SIN DATOS,,True
+Turquía,alto,Crédito real,Exceso,CONTRADICE,4.571767788232497,True
+Turquía,alto,Crédito real,M-actividad,CONTRADICE,3.387706360458147,True
+Turquía,alto,Crédito real,Exceso+act,CONTRADICE,3.9352234116114286,True
+Turquía,alto,Crédito real,Normal,CONTRADICE,4.956712872751729,True
+Turquía,alto,Crédito real,Estrés,CONTRADICE,4.493211968371239,True
+Turquía,alto,Crédito real,Sin estrés,SIN DATOS,,True
+Turquía,alto,Salario real,Exceso,SIN DATOS,,True
+Turquía,alto,Salario real,M-actividad,SIN DATOS,,True
+Turquía,alto,Salario real,Exceso+act,SIN DATOS,,True
+Turquía,alto,Salario real,Normal,SIN DATOS,,True
+Turquía,alto,Salario real,Estrés,SIN DATOS,,True
+Turquía,alto,Salario real,Sin estrés,SIN DATOS,,True
+Turquía,alto,Tipo de cambio,Exceso,RESPALDA,2.295286161850282,True
+Turquía,alto,Tipo de cambio,M-actividad,RESPALDA,3.278347781922024,True
+Turquía,alto,Tipo de cambio,Exceso+act,RESPALDA,2.3891996330891914,True
+Turquía,alto,Tipo de cambio,Normal,RESPALDA,2.4679551601184646,True
+Turquía,alto,Tipo de cambio,Estrés,RESPALDA,2.158992936892119,True
+Turquía,alto,Tipo de cambio,Sin estrés,RESPALDA,3.029387900110487,True

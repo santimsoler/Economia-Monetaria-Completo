@@ -1,0 +1,33 @@
+archivo,contenido,filas,fuente
+panel_internacional.csv,"Panel internacional procesado, 1997-2024 [variable 'pasado a mano']",3160,sesión de Colab
+eeuu_mensual.csv,"Producción industrial y tasas de EE.UU., mensual [variable 'pasado a mano']",1293,sesión de Colab
+argentina_mensual.csv,"Agregados, precios, REM, actividad y brecha, mensual [variable 'pasado a mano']",199,sesión de Colab
+otros_lw.csv,DataFrame de la sesión,35295,sesión de Colab
+otros_wb.csv,DataFrame de la sesión,6665,sesión de Colab
+otros_aporte.csv,DataFrame de la sesión,6665,sesión de Colab
+otros_global_df.csv,DataFrame de la sesión,6454,sesión de Colab
+otros_weo.csv,DataFrame de la sesión,6129,sesión de Colab
+otros_dd.csv,DataFrame de la sesión,5813,sesión de Colab
+otros_base.csv,DataFrame de la sesión,3160,sesión de Colab
+otros_dp.csv,DataFrame de la sesión,3160,sesión de Colab
+otros_lpp.csv,DataFrame de la sesión,3160,sesión de Colab
+otros_dp2.csv,DataFrame de la sesión,3160,sesión de Colab
+otros_Xv.csv,DataFrame de la sesión,3160,sesión de Colab
+otros_ah.csv,DataFrame de la sesión,3160,sesión de Colab
+hlw_holston_laubach_williams.xlsx,"hojas: info, HLW Estimates, Parameters, US input data, CA input data",1085,Fed de Nueva York
+lw_laubach_williams.xlsx,"hojas: LW Current Estimates, data, input data, parameters",582,Fed de Nueva York
+fred_FEDFUNDS.csv,Tasa de fondos federales,866,FRED
+fred_PCEPILFE.csv,Precios PCE subyacente,811,FRED
+fred_GDPC1.csv,PIB real,318,FRED
+fred_GDPPOT.csv,PIB potencial (CBO),352,FRED
+fred_CPIAUCSL.csv,IPC total,956,FRED
+jk_shocks_fed.csv,"Sorpresas de política y de información, FED",408,github.com/marekjarocinski/jkshocks_update_fed_202401
+jk_shocks_ecb.csv,"Sorpresas de política y de información, ECB",298,github.com/marekjarocinski/jkshocks_update_ecb_202310
+eurostat_MIG_CAG.csv,Bienes de capital (EA20),1249,Eurostat sts_inpr_m
+eurostat_MIG_NDCOG.csv,Consumo no durable (EA20),1249,Eurostat sts_inpr_m
+eurostat_C28.csv,Maquinaria y equipo (EA20),1237,Eurostat sts_inpr_m
+bcra_pases_pasivos.csv,"id 152, millones de pesos",5463,API BCRA
+bcra_leliq_notaliq.csv,"id 155, millones de pesos",2107,API BCRA
+bcra_lebac_nobac.csv,"id 156, millones de pesos",5813,API BCRA
+bcra_nocom.csv,"id 159, millones de pesos",1923,API BCRA
+bcra_letras_bcra_me.csv,"id 1259, millones de pesos",5813,API BCRA
